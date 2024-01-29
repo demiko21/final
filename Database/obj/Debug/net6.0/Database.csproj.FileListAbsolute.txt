@@ -83,3 +83,20 @@ C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Database\obj\Debug\net6.0\refint\
 C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Database\obj\Debug\net6.0\Database.pdb
 C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Database\obj\Debug\net6.0\Database.genruntimeconfig.cache
 C:\Users\Goga\Desktop\Lem archive\LemonLibrary\Database\obj\Debug\net6.0\ref\Database.dll
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Database\bin\Debug\net6.0\Database.deps.json
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Database\bin\Debug\net6.0\Database.runtimeconfig.json
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Database\bin\Debug\net6.0\Database.dll
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Database\bin\Debug\net6.0\Database.pdb
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Database\bin\Debug\net6.0\Business.dll
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Database\bin\Debug\net6.0\Business.pdb
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Database\obj\Debug\net6.0\Database.csproj.AssemblyReference.cache
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Database\obj\Debug\net6.0\Database.GeneratedMSBuildEditorConfig.editorconfig
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Database\obj\Debug\net6.0\Database.AssemblyInfoInputs.cache
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Database\obj\Debug\net6.0\Database.AssemblyInfo.cs
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Database\obj\Debug\net6.0\Database.csproj.CoreCompileInputs.cache
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Database\obj\Debug\net6.0\Database.csproj.CopyComplete
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Database\obj\Debug\net6.0\Database.dll
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Database\obj\Debug\net6.0\refint\Database.dll
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Database\obj\Debug\net6.0\Database.pdb
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Database\obj\Debug\net6.0\Database.genruntimeconfig.cache
+D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Database\obj\Debug\net6.0\ref\Database.dll
