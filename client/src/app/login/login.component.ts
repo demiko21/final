@@ -17,4 +17,6 @@ export class LoginComponent {
     this.router.navigate(['/register'])
   }
 
+  //Missing Code
+
 }
