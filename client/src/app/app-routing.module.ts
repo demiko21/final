@@ -9,16 +9,17 @@ import {EditBookComponent} from "./edit-book/edit-book.component";
 import {AddBookComponent} from "./add-book/add-book.component";
 import {AuthorDetailComponent} from "./author-detail/author-detail.component";
 import {AddAuthorComponent} from "./add-author/add-author.component";
+import { AuthGuard } from './guard/guard.guard';
 
 const routes: Routes = [
 
-  { path: 'books/edit', component: EditBookComponent },
-  { path: 'books/add', component: AddBookComponent },
-  { path: 'authors/add', component: AddAuthorComponent },
-  { path: 'authors/:id', component: AuthorDetailComponent },
-  { path: 'books/:id', component: BookDetailsComponent },
-  { path: 'books', component: BookComponent },
-  { path: 'authors', component: AuthorComponent },
+  { path: 'books/edit', component: EditBookComponent,canActivate : [AuthGuard]  },
+  { path: 'books/add', component: AddBookComponent ,canActivate : [AuthGuard]},
+  { path: 'authors/add', component: AddAuthorComponent,canActivate : [AuthGuard] },
+  { path: 'authors/:id', component: AuthorDetailComponent,canActivate : [AuthGuard] },
+  { path: 'books/:id', component: BookDetailsComponent,canActivate : [AuthGuard] },
+  { path: 'books', component: BookComponent,canActivate : [AuthGuard] },
+  { path: 'authors', component: AuthorComponent,canActivate : [AuthGuard] },
   { path: 'login', component: LoginComponent },
   { path: 'register', component: RegisterComponent },
 

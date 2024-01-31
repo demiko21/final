@@ -112,3 +112,22 @@ D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Application\obj\Debug\net6
 D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Application\obj\Debug\net6.0\Application.pdb
 D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Application\obj\Debug\net6.0\Application.genruntimeconfig.cache
 D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Application\obj\Debug\net6.0\ref\Application.dll
+C:\Users\morde\OneDrive\Desktop\final\IBSU_Finals_API\Application\bin\Debug\net6.0\Application.deps.json
+C:\Users\morde\OneDrive\Desktop\final\IBSU_Finals_API\Application\bin\Debug\net6.0\Application.runtimeconfig.json
+C:\Users\morde\OneDrive\Desktop\final\IBSU_Finals_API\Application\bin\Debug\net6.0\Application.dll
+C:\Users\morde\OneDrive\Desktop\final\IBSU_Finals_API\Application\bin\Debug\net6.0\Application.pdb
+C:\Users\morde\OneDrive\Desktop\final\IBSU_Finals_API\Application\bin\Debug\net6.0\Business.dll
+C:\Users\morde\OneDrive\Desktop\final\IBSU_Finals_API\Application\bin\Debug\net6.0\Database.dll
+C:\Users\morde\OneDrive\Desktop\final\IBSU_Finals_API\Application\bin\Debug\net6.0\Business.pdb
+C:\Users\morde\OneDrive\Desktop\final\IBSU_Finals_API\Application\bin\Debug\net6.0\Database.pdb
+C:\Users\morde\OneDrive\Desktop\final\IBSU_Finals_API\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+C:\Users\morde\OneDrive\Desktop\final\IBSU_Finals_API\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\morde\OneDrive\Desktop\final\IBSU_Finals_API\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+C:\Users\morde\OneDrive\Desktop\final\IBSU_Finals_API\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+C:\Users\morde\OneDrive\Desktop\final\IBSU_Finals_API\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\morde\OneDrive\Desktop\final\IBSU_Finals_API\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+C:\Users\morde\OneDrive\Desktop\final\IBSU_Finals_API\Application\obj\Debug\net6.0\Application.dll
+C:\Users\morde\OneDrive\Desktop\final\IBSU_Finals_API\Application\obj\Debug\net6.0\refint\Application.dll
+C:\Users\morde\OneDrive\Desktop\final\IBSU_Finals_API\Application\obj\Debug\net6.0\Application.pdb
+C:\Users\morde\OneDrive\Desktop\final\IBSU_Finals_API\Application\obj\Debug\net6.0\Application.genruntimeconfig.cache
+C:\Users\morde\OneDrive\Desktop\final\IBSU_Finals_API\Application\obj\Debug\net6.0\ref\Application.dll

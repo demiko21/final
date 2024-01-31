@@ -82,3 +82,17 @@ D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Business\obj\Debug\net6.0\
 D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Business\obj\Debug\net6.0\Business.pdb
 D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Business\obj\Debug\net6.0\Business.genruntimeconfig.cache
 D:\Academy modules\Finals\Finals proj\IBSU_Finals_API\Business\obj\Debug\net6.0\ref\Business.dll
+C:\Users\morde\OneDrive\Desktop\final\IBSU_Finals_API\Business\bin\Debug\net6.0\Business.deps.json
+C:\Users\morde\OneDrive\Desktop\final\IBSU_Finals_API\Business\bin\Debug\net6.0\Business.runtimeconfig.json
+C:\Users\morde\OneDrive\Desktop\final\IBSU_Finals_API\Business\bin\Debug\net6.0\Business.dll
+C:\Users\morde\OneDrive\Desktop\final\IBSU_Finals_API\Business\bin\Debug\net6.0\Business.pdb
+C:\Users\morde\OneDrive\Desktop\final\IBSU_Finals_API\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+C:\Users\morde\OneDrive\Desktop\final\IBSU_Finals_API\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\morde\OneDrive\Desktop\final\IBSU_Finals_API\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+C:\Users\morde\OneDrive\Desktop\final\IBSU_Finals_API\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+C:\Users\morde\OneDrive\Desktop\final\IBSU_Finals_API\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\morde\OneDrive\Desktop\final\IBSU_Finals_API\Business\obj\Debug\net6.0\Business.dll
+C:\Users\morde\OneDrive\Desktop\final\IBSU_Finals_API\Business\obj\Debug\net6.0\refint\Business.dll
+C:\Users\morde\OneDrive\Desktop\final\IBSU_Finals_API\Business\obj\Debug\net6.0\Business.pdb
+C:\Users\morde\OneDrive\Desktop\final\IBSU_Finals_API\Business\obj\Debug\net6.0\Business.genruntimeconfig.cache
+C:\Users\morde\OneDrive\Desktop\final\IBSU_Finals_API\Business\obj\Debug\net6.0\ref\Business.dll
